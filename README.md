@@ -4,4 +4,5 @@
 
 - Pasirinkome daryti orų programėlę, kadangi jų niekad nebus per daug.
 
-![Screenshot_1673910096](https://user-images.githubusercontent.com/96780163/212782770-d52d3d61-aede-4958-b46a-bddd60f112c0.png)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/96780163/212784112-a680fd69-9a1c-4444-936b-5c8d542e38fe.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/96780163/212784120-962f4784-6b0a-4b0c-a6ad-3d3d897fd552.gif)
