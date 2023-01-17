@@ -10,6 +10,7 @@ To do:
 - Pabaigti versti kalbas
 - Nepasiduoti.
 
+# Išvaizda
 
 Dark Mode (Tamsos režimas)  |  Light Mode (Šviesos režimas
 :-------------------------:|:-------------------------:
