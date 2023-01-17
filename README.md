@@ -4,7 +4,7 @@
 
 - Pasirinkome daryti orų programėlę, kadangi jų niekad nebus per daug.
 
-To do:
+Padaryti / Pabaigti :
 - Nustatymų ekranas
 - Įvadinis ekranas
 - Pabaigti versti kalbas
