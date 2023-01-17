@@ -1,0 +1,18 @@
+
+{
+    "comfort_level": "Comfort level",
+    "today_s": "Today",
+    "next_days": "7-day forecast",
+    "humidity": "Humidity",
+    "feels_like": "Feels like ",
+    "uv": "UV index ",
+    "languagecode": "en",
+    "settings": "Settings",
+    "languagess": "Language",
+    "stl": "Switch to Lithuanian",
+    "l_m": "Light Mode",
+    "d_m": "Dark Mode",
+    "l_m1": "Switch to Dark Mode",
+    "d_m2": "Switch to Light Mode",
+    "home_screen": "Go back to the Home screen"
+}
