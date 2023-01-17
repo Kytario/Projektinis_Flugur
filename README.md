@@ -19,4 +19,4 @@ Dark Mode (Tamsos režimas)  |  Light Mode (Šviesos režimas
 Pirminis variantas  | (Gali būti implementuotas)
 :-------------------------:|:-------------------------:
 
-![Screenshot_1673915874](https://user-images.githubusercontent.com/96780163/212785329-43493b1c-4008-4d1f-8dc9-b7645a128467.png) | ![Screenshot_1673915877](https://user-images.githubusercontent.com/96780163/212785318-de309f56-a395-4a26-bb21-67e7a154e1d9.png)
+<img src="https://user-images.githubusercontent.com/96780163/212785329-43493b1c-4008-4d1f-8dc9-b7645a128467.png" width="200" /> | ![Screenshot_1673915877](https://user-images.githubusercontent.com/96780163/212785318-de309f56-a395-4a26-bb21-67e7a154e1d9.png)
